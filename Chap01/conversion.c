@@ -1,6 +1,8 @@
 //
 // program to convert temperature from celsius to farenheit
 
+// this is an edit to the program to test how this works
+
 #include <cstdio>
 #include <cstdlib>
 #include <iostream>
